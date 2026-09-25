@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+#plano-preto {
+    background-color: black;
+    height: 400px;
+    opacity: 60%;
+    width: 100%;
+    position: absolute;
+}
+#secao1 {
+    height: 400px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://img.magnific.com/fotos-gratis/fundo-preto-plano-com-xicara-de-cafe-para-laptop-e-vista-superior-da-calculadora_169016-36166.jpg?semt=ais_hybrid&w=740&q=80');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#nome {
+    color: yellow;
+}
+#texto-principal {
+    z-index: 2;
+}
+#texto-secundario {
+    z-index: 2;
+    margin-top: 30px;
+}
+h1 {
+    font-size: 3rem;
+}
+p {
+    color: gainsboro;
+}
+#secao2{
+    height: 400px;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    background-color: aliceblue;
+}
+#secao2 p {
+    text-align: center;
+    color: black;
+}
+
+#destaque {
+    width: 60%;
+    padding: 40px 10px;
+    margin: 16px;
+    display: flex;
+    border-radius: 8px;
+    background-color: rgba(211, 210, 210, 0.651);
+}
