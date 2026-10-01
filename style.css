@@ -27,7 +27,7 @@ img {
     text-align: center;
 }
 #nome {
-    color: pink; /*pink é da branch conteúdo */
+    color: purple;
 }
 #texto-principal {
     z-index: 2;
@@ -37,7 +37,7 @@ img {
     margin-top: 30px;
 }
 p {
-    font-family: cursive;
+    font-family: monospace;
 }
 h1 {
     font-size: 3rem;
