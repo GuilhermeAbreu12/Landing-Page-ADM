@@ -27,7 +27,7 @@ img {
     text-align: center;
 }
 #nome {
-    color: purple;
+    color: pink; /*pink é da branch conteúdo */
 }
 #texto-principal {
     z-index: 2;
