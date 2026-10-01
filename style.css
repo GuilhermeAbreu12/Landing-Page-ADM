@@ -36,6 +36,9 @@ img {
     z-index: 2;
     margin-top: 30px;
 }
+p {
+    font-family: cursive;
+}
 h1 {
     font-size: 3rem;
 }
